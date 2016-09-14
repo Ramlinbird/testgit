@@ -1,6 +1,6 @@
 ## Basic Git Tutorial
-git add xxx
-git rm xxx
+git add xxx  
+git rm xxx  
 
 git commit -m "xxx"
 git checkout -- xxx
